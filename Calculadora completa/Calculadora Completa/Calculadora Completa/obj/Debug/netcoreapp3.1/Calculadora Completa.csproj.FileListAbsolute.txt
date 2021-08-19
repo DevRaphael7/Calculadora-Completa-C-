@@ -1,0 +1,17 @@
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.exe
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.deps.json
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.runtimeconfig.json
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.runtimeconfig.dev.json
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.dll
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\bin\Debug\netcoreapp3.1\Calculadora Completa.pdb
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.csproj.AssemblyReference.cache
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora_Completa.Form1.resources
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.csproj.GenerateResource.cache
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.AssemblyInfoInputs.cache
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.AssemblyInfo.cs
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.csproj.CoreCompileInputs.cache
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.dll
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.pdb
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora Completa.genruntimeconfig.cache
+D:\C# Projetos\Calculadora completa\Calculadora Completa\Calculadora Completa\obj\Debug\netcoreapp3.1\Calculadora_Completa.Properties.Resources.resources
